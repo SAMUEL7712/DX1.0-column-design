@@ -5,6 +5,8 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
+
 }
 
 /* ==== Common Fix ends here==== */
@@ -12,14 +14,13 @@
 
 /* ===== First section starts here===== */
 .fisrtsection { 
-    height: 460px;
+  height: 460px;
     border: 3px solid black;
     display: flex;
 }
 
 /* ===== First section starts here===== */
 .firstsection-leftdiv{
-    box-sizing: border-box;
     padding: 20px ;
     width: 50%;
     height: 100%;
@@ -49,9 +50,6 @@ body{
     
 }
 
-.yam{
-
-}
 
 span{
     color: var(--main-color);
