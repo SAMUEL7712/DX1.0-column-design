@@ -72,3 +72,18 @@ span{
 .firstsection-leftdiv p{
     margin-bottom: 25px;
 }
+.mayor{
+
+    /* border: 3px solid black; */
+    color: var(--white-color);
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+}
+.mayor h4{ 
+    /* border: 3px solid black; */
+}
+
+
+
