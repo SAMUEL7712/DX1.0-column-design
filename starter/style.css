@@ -134,6 +134,129 @@ img{
 
 
 
+/* ===== third section starts here===== */
+
+
+.thirdsection{
+    background: var(--gray-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+    margin: 0 auto;
+    max-width: 1500px;
+
+}
+.thirdsection-leftdiv,
+.thirdsection-rightdiv {
+    width: 350px;
+    height: 460px;
+}
+
+.thirdsection-leftdiv{
+    background: url("./images/image3.jpg");
+    background-size: cover;
+}
+
+.thirdsection-rightdiv {
+    background: var(--main-color);
+    padding: 30px 25px;
+
+}
+
+.thirdsection-rightdiv p{
+    margin: 10px 0;
+}
+
+
+/* ==== Footer section starts here ==== */
+
+.footer {
+    background: var(--main-color);
+    padding: 20px 0;
+    flex-wrap: wrap;
+    color: var(--white-color);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.footericon {
+    color: var(--white-color);
+    margin: 0 5px;
+}
+
+
+/* ==== Footer section ends here ==== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ===== third section ends here===== */
+
+
+
+
+
+
+
+
+
+
 
 
 
